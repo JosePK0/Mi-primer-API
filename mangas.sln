@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mangas", "mangas.csproj", "{22646E9F-011F-4290-9797-EA8A59AE976D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22646E9F-011F-4290-9797-EA8A59AE976D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22646E9F-011F-4290-9797-EA8A59AE976D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22646E9F-011F-4290-9797-EA8A59AE976D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22646E9F-011F-4290-9797-EA8A59AE976D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758C5109-4F22-4D09-B114-FD4591D23D8B}
+	EndGlobalSection
+EndGlobal
